@@ -1,0 +1,26 @@
+<employees>
+<employee>
+<name>Millennium Roy</name>
+<designation>Technical Writer</designation>
+<date_of_joining>2020-01-15</date_of_joining>
+<address>Pune</address>
+<salary>600000</salary>
+</employee>
+
+<employee>
+<name>Avi Roy</name>
+<designation>Software Engineer</designation>
+<date_of_joining>2018-07-22</date_of_joining>
+<address>Mumbai</address>
+<salary>800000</salary>
+</employee>
+
+<employee>
+<name>Saurav Roy</name>
+<designation>Technical Writer</designation>
+<date_of_joining>2021-04-30</date_of_joining>
+<address>Patna</address>
+<salary>550000</salary>
+</employee>
+
+</employees>
